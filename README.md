@@ -1,6 +1,6 @@
 # Atelier_Pratique_04
 ### Objectif: ###
-  Sécuriser cette application en intégrant un système d'authentification basé sur Spring security avec les trois stratégies : InMemoryAuthentication, JdbcAuthentication      et UserDetailsService
+  Sécuriser cette application en intégrant un système d'authentification basé sur Spring security avec les trois stratégies : InMemoryAuthentication, JdbcAuthentication et UserDetailsService.
 
 ### Spring Security: ###
 Spring Security permet de préconfigurer et de personnaliser des fonctions de sécurité au sein d'une application Java. On peut ajouter ces fonctions à vos applications Spring, Spring MVC, Spring Boot, RESTful API ou web monopage
@@ -24,7 +24,7 @@ Spring Security permet de préconfigurer et de personnaliser des fonctions de s�
   -Spring-boot-devtools
   
   
-### Les couches que contieent cette application: ###
+### Les couches que contiennent cette application: ###
   -Couche DAO
   
   -Couche WEB
