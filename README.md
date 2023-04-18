@@ -1,24 +1,38 @@
 # Atelier_Pratique_04
-Objectif: 
+### Objectif: ###
   Sécuriser cette application en intégrant un système d'authentification basé sur Spring security avec les trois stratégies : InMemoryAuthentication, JdbcAuthentication      et UserDetailsService
+
+### Spring Security: ###
+Spring Security permet de préconfigurer et de personnaliser des fonctions de sécurité au sein d'une application Java. On peut ajouter ces fonctions à vos applications Spring, Spring MVC, Spring Boot, RESTful API ou web monopage
+
   
-Les dépendances utilisées: 
+### Les dépendances utilisées: ###
   -Springweb
+  
   -H2database
+  
   -Mysql
+  
   -Lombok
+  
   -Thymeleaf
+  
   -SpringdataJPA
+  
   -Spring-boot-starter-security
+  
   -Spring-boot-devtools
   
-Les couches que contieent cette application: 
+  
+### Les couches que contieent cette application: ###
   -Couche DAO
+  
   -Couche WEB
+  
   -Spring security 
   
   
-L'output de cette application: 
+### L'output de cette application: ### 
 ![image](https://user-images.githubusercontent.com/80127629/232747529-913f4af5-7df0-4b06-b7f9-df1278fe1948.png)
 ![image](https://user-images.githubusercontent.com/80127629/232747716-dd347ffc-f584-4f12-9dc4-0484e2914fc0.png)
 ![image](https://user-images.githubusercontent.com/80127629/232747835-21a398d0-10a1-40b6-881c-8e138c3bf914.png)
